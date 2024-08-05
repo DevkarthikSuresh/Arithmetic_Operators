@@ -39,3 +39,6 @@ Output the Result
 
 * Output the result: "The No. is: " followed by the value of c.
 * End
+
+## Conclusion 
+We learnt to use the basic arithmetic operators in C++.
