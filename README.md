@@ -3,7 +3,8 @@ Experiment_3
 
 ## AIM - 
 To use operators to add two numbers.
-
+## Software Used
+VS Code
 ## Theory
 Airthmetic operators are symbols used in programming to perform operations on variables and values. They are important to writing expressions and making decisions in code.
 
